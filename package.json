@@ -1,0 +1,13 @@
+{
+    "description": "Monitors meteor instances in your computer",
+    "main": "main.html",
+    "name": "Meteor Monitor",
+    "version": "0.1",
+    "window": {
+        "height": 600,
+        "width": 650,
+        "show": true,
+        "title": "Meteor Monitor",
+        "toolbar": false
+    }
+}
