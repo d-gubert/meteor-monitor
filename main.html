@@ -2,6 +2,12 @@
 <html>
 	<head>
 		<title>Meteor Monitor</title>
+		<script type="text/javascript">
+			CoffeeRequirer = require('nw-coffee');
+			CoffeeRequirer('./app/Common.coffee');
+			CoffeeRequirer('./app/MeteorProject.coffee');
+			CoffeeRequirer('./app/MeteorMonitor.coffee');
+		</script>
 	</head>
 	<body>
 		<div>Hello World</div>

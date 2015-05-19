@@ -1,0 +1,19 @@
+{
+  "name": "meteor-monitor",
+  "version": "1.0.0",
+  "description": "A monitor for the instances of meteor in your computer",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-gubert/meteor-monitor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-gubert/meteor-monitor/issues"
+  },
+  "homepage": "https://github.com/d-gubert/meteor-monitor#readme"
+}
